@@ -3,7 +3,9 @@ import VueRouter from 'vue-router'
 import Dashboard from '../views/Dashboard.vue'
 import Projects from '../views/Projects.vue'
 import Team from '../views/Team.vue'
-
+import Staff from '../views/Staff.vue'
+import Interns from '../views/Interns.vue'
+import Trainers from '../views/Trainers.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -25,7 +27,22 @@ const routes = [
     path: '/team',
     name: 'team',
     component: Team
-  }
+  },
+  {
+    path: '/Staff',
+    name: 'Staff',
+    component: Staff,
+  },
+  {
+    path: '/interns',
+    name: 'interns',
+    component: Interns,
+  },
+  {
+    path: '/trainers',
+    name: 'trainers',
+    component: Trainers,
+  },
 ]
 
 const router = new VueRouter({
