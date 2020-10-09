@@ -15,7 +15,7 @@
     >
 
       <v-card-text class="py-5 black--text text-center">
-        Copyright reserved by <strong>Emilson </strong>
+        Created by <strong>Emilson </strong>
       </v-card-text>
     </v-card>
   </v-footer>
