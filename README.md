@@ -1,5 +1,12 @@
 # Vuetify - Vuejs -Team  Tracker Dashboard
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/faef4053-29e4-4ab2-aea5-b286e46d7d7e/deploy-status)](https://app.netlify.com/sites/trackerfy/deploys)
+
+
+
+
+
 ## Project setup
 ```
 npm install
