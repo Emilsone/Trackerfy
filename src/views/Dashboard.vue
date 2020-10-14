@@ -1,6 +1,6 @@
 <template>
   <div class="team">
-    <h1 class="subheading grey--text">Dashboard</h1>
+    <h1 class="subheading grey--text">Team Members</h1>
     <v-container >
       <v-layout row wrap>
          <v-flex
@@ -20,7 +20,7 @@
       </v-sheet>
       </v-list-item-avatar>
       <v-list-item-content>
-        <div class="overline text-right">Article</div>
+        <div class="overline text-right">Staff</div>
         <v-list-item-title class="headline mb-1 text-right" >523614</v-list-item-title>
         <div><v-divider></v-divider></div>
       </v-list-item-content> 
@@ -48,7 +48,7 @@
       </v-sheet>
       </v-list-item-avatar>
       <v-list-item-content>
-        <div class="overline text-right">Abonné</div>
+        <div class="overline text-right">Interns</div>
         <v-list-item-title class="headline mb-1 text-right" >+700</v-list-item-title>
         <div><v-divider></v-divider></div>
       </v-list-item-content> 
@@ -72,11 +72,11 @@
         class="mt-n7"
       >
       <v-sheet color="#03A9F4" width="80" height="80" elevation="10">
-            <v-icon dark large>add_shopping_cart</v-icon>
+            <!-- <v-icon dark large>add_shopping_cart</v-icon> -->
       </v-sheet>
       </v-list-item-avatar>
       <v-list-item-content>
-        <div class="overline text-right">Shopping</div>
+        <div class="overline text-right">Trainers</div>
         <v-list-item-title class="headline mb-1 text-right" >$34,245</v-list-item-title>
         <div><v-divider></v-divider></div>
       </v-list-item-content> 
@@ -100,11 +100,11 @@
         class="mt-n7"
       >
       <v-sheet color="#FFC107" width="80" height="80" elevation="10">
-            <v-icon dark large>folder_shared</v-icon>
+            <!-- <v-icon dark large>folder_shared</v-icon> -->
       </v-sheet>
       </v-list-item-avatar>
       <v-list-item-content>
-        <div class="overline text-right">Folder shared</div>
+        <div class="overline text-right">Trainees</div>
         <v-list-item-title class="headline mb-1 text-right" >1730</v-list-item-title>
         <div><v-divider></v-divider></div>
       </v-list-item-content> 
