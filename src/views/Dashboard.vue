@@ -111,7 +111,7 @@
     </v-list-item>
     <v-card-actions>
       <v-icon text class="ma-2">folder</v-icon>
-      <div class="overline">Prodect</div>
+      <div class="overline">Product</div>
     </v-card-actions>
   </v-card>
       </v-flex>

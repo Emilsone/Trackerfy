@@ -2,7 +2,7 @@
   <v-row justify="center">
     <v-dialog v-model="dialog" persistent max-width="800px">
       <template v-slot:activator="{ on }">
-        <v-btn outlined color="#31AA52" dark v-on="on">Add new project</v-btn>
+        <v-btn outlined color="#31AA52" dark v-on="on">Add new members</v-btn>
       </template>
       <v-card>
         <v-card-title>
