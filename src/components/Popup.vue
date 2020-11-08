@@ -6,7 +6,7 @@
       </template>
       <v-card>
         <v-card-title>
-          <span class="headline">New Project</span>
+          <span class="headline">New Team</span>
         </v-card-title>
          <v-form class="px-3" ref="form">
         <v-card-text>

@@ -27,7 +27,7 @@
     </v-list-item>
     <v-card-actions>
       <v-icon text class="ma-2">person</v-icon>
-      <div class="overline">Iyad</div>
+      <!-- <div class="overline">Iyad</div> -->
     </v-card-actions>
   </v-card>
       </v-flex>
@@ -54,8 +54,7 @@
       </v-list-item-content> 
     </v-list-item>
     <v-card-actions>
-      <v-icon text class="ma-2">subscriptions</v-icon>
-      <div class="overline">AAE IdeaPro</div>
+ <v-icon text class="ma-2">person</v-icon>
     </v-card-actions>
   </v-card>
       </v-flex>
@@ -82,8 +81,8 @@
       </v-list-item-content> 
     </v-list-item>
     <v-card-actions>
-      <v-icon text class="ma-2">credit_card</v-icon>
-      <div class="overline">VISA Card</div>
+      <!-- <v-icon text class="ma-2">credit_card</v-icon> -->
+      <v-icon text class="ma-2">person</v-icon>
     </v-card-actions>
   </v-card>
       </v-flex>
@@ -110,8 +109,7 @@
       </v-list-item-content> 
     </v-list-item>
     <v-card-actions>
-      <v-icon text class="ma-2">folder</v-icon>
-      <div class="overline">Product</div>
+      <v-icon text class="ma-2">person</v-icon>
     </v-card-actions>
   </v-card>
       </v-flex>
